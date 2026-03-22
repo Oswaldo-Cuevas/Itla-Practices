@@ -2,7 +2,6 @@
 .vs/
 *.suo
 *.user
-*.slnx
 *.vsdx
 bin/
 obj/
