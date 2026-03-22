@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rd+Po48MkhY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oswaldo\\source\\repos\\ItlaPractices\\Four Homework\\SoundJournal.Domain\\SoundJournal.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oswaldo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Oswaldo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Oswaldo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

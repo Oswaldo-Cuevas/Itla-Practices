@@ -1,0 +1,16 @@
+# Carpetas de Visual Studio y .NET
+.vs/
+bin/
+obj/
+
+# Bases de datos
+*.mdf
+*.ldf
+*.db
+*.sqlite
+
+# Archivos de configuración local
+appsettings.Development.json
+
+# Archivos temporales de Visual Studio
+FileContentIndex/

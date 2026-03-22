@@ -1,0 +1,6 @@
+C:\Users\Oswaldo\source\repos\ItlaPractices\Four Homework\SoundJournal.Application\obj\Debug\net8.0\SoundJournal.Application.csproj.AssemblyReference.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Four Homework\SoundJournal.Application\obj\Debug\net8.0\SoundJournal.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oswaldo\source\repos\ItlaPractices\Four Homework\SoundJournal.Application\obj\Debug\net8.0\SoundJournal.Application.AssemblyInfoInputs.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Four Homework\SoundJournal.Application\obj\Debug\net8.0\SoundJournal.Application.AssemblyInfo.cs
+C:\Users\Oswaldo\source\repos\ItlaPractices\Four Homework\SoundJournal.Application\obj\Debug\net8.0\SoundJournal.Application.csproj.CoreCompileInputs.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Four Homework\SoundJournal.Application\obj\Debug\net8.0\SoundJournal.Application.sourcelink.json
