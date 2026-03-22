@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SoundJournal API/SoundJournal API.csproj" />
+  <Project Path="SoundJournal.Domain/SoundJournal.Domain.csproj" Id="9bb84f17-4678-432c-9724-bfc0720772bc" />
+  <Project Path="SoundJournal.Infrastructure/SoundJournal.Infrastructure.csproj" Id="8c5bac96-4f8f-4e26-a6d8-cd7f53bbbd89" />
+</Solution>

@@ -1,0 +1,12 @@
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.AssemblyInfo.cs
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.sourcelink.json
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.AssemblyInfo.cs
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Infrastructure\obj\Debug\net8.0\SoundJournal.Infrastructure.sourcelink.json

@@ -1,0 +1,24 @@
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\bin\Debug\net8.0\SoundJournal.Domain.deps.json
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\bin\Debug\net8.0\SoundJournal.Domain.dll
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\bin\Debug\net8.0\SoundJournal.Domain.pdb
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.AssemblyInfoInputs.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.AssemblyInfo.cs
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.sourcelink.json
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.dll
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\obj\Debug\net8.0\refint\SoundJournal.Domain.dll
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.pdb
+C:\Users\Oswaldo\source\repos\ItlaPractices\Second Homework - API\SoundJournal API\SoundJournal.Domain\obj\Debug\net8.0\ref\SoundJournal.Domain.dll
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\bin\Debug\net8.0\SoundJournal.Domain.deps.json
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\bin\Debug\net8.0\SoundJournal.Domain.dll
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\bin\Debug\net8.0\SoundJournal.Domain.pdb
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.AssemblyInfoInputs.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.AssemblyInfo.cs
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.sourcelink.json
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.dll
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\obj\Debug\net8.0\refint\SoundJournal.Domain.dll
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\obj\Debug\net8.0\SoundJournal.Domain.pdb
+C:\Users\Oswaldo\source\repos\ItlaPractices\Third Homework\SoundJournal.Domain\obj\Debug\net8.0\ref\SoundJournal.Domain.dll
