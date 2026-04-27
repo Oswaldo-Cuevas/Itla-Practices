@@ -1,0 +1,27 @@
+﻿@page "/productos"
+@inject CrudBlazorCliente.Services.ProductoService ProductoService
+
+<h3>Lista de Productos</h3>
+
+@if (productos == null)
+{
+    <p>Cargando...</p>
+}
+else
+{
+    <ul>
+        @foreach (var p in productos)
+        {
+            <li>@p.Nombre - @p.Precio</li>
+        }
+    </ul>
+}
+
+@code {
+    private List<CrudBlazorCliente.Models.Producto>? productos;
+
+    protected override async Task OnInitializedAsync()
+    {
+        productos = await ProductoService.GetProductos();
+    }
+}
