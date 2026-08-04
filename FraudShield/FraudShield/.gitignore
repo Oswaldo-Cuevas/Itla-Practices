@@ -1,0 +1,12 @@
+# Ignorar archivos temporales de Visual Studio
+.vs/
+*.suo
+*.user
+*.slnx
+
+# Ignorar binarios y compilados
+bin/
+obj/
+
+# Ignorar archivos CSV generados
+*.csv
