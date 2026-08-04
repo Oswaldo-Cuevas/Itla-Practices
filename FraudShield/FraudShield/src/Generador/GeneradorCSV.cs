@@ -18,7 +18,7 @@ namespace FraudShield.Generador
             "La Sirena",
             "Banco Popular",
             "Farmacia Carol",
-            "Estación de Gasolina",
+            "Estacion de Gasolina",
             "Restaurante Adrian Tropical",
             "Tiendas Corripio",
             "Ferretería Americana"
@@ -45,7 +45,7 @@ namespace FraudShield.Generador
 
         private readonly string[] paises =
         {
-            "Republica Dominicana",
+            "Rep. Dominicana",
             "Estados Unidos",
             "España",
             "Mexico",
